@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+  .mae{
+    width: 100vw; 
+     height: 915px;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     grid-template-rows: 1fr 1fr 1fr;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     gap: 15px;
+     padding: 20px;
+  }
+ .um{
+    background-image: url("neymar.jpg");
+    background-size: cover;
+    background-position: center;
+ }
+ .dois{
+     background-image: url("neymarjr.jpeg");
+     background-size: cover;
+     background-position: center;
+ }
+ .tres{
+     background-image: url("ney");
+     background-size: cover;
+     background-position: top;
+ }
+ .quatro{
+     background-image: url("ney11.webp");
+     background-size: cover;
+     background-position: center;
+ }
+ .seis{
+    background-image: url("ney11.webp");
+    background-size: cover;
+    background-position: center;
+ }
+
+.sete{
+    background-image: url("neyday.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.oito{
+    background-image: url("neybrasil.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.nove{
+    background-image: url("neymar.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+ 
